@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Lora);
+
+#bckgrdImg {
+  
+  background: #000 url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Perth_city_scape.jpg/1280px-Perth_city_scape.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  
+}
+
+h1 {
+  font-family:Lora, serif;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px #000000;
+  margin-bottom: 4vw;
+}
+
+p {
+  font-family:Lora, ser
+  margin: 1vw;
+}
+
+.quoteBox {
+  padding: 1vw 2vw 0vw 2vw;
+  background-color: #B5ACE6;
+  border-radius: 4px;
+  display:none;
+  box-shadow: 2px 2px 8px #888888
+  
+}
+
+.centered
+{
+    text-align:center;
+}
+
+.lefted {
+  text-align: left;
+}
+
+.righted {
+  text-align: right;
+}
+
+#footer {
+  
+}
+
+#quote {
+  font-family: Lora, serif;
+}
+
+#footer {
+ ;
+}
+
+#tweet {
+  background-color:#00aced;
+  color:white;
+  
+}
+
+#tweet:link {
+  
+  color:white;
+}
+
+#toProfile {
+  color:white;
+  margin-top: 10px;
+    
+  
+}
