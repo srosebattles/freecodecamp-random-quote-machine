@@ -1,3 +1,0 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/Demo318/pen/YWNYmM.
-
- This is my submission for the "Random Quote Machine" project on FreeCodeCamp.com. I've used JSON to create a database of quotations and then jQuery to pull from that database with each refresh. I've used a random number generator in order to select a quote but have also included parameters to ensure the previous quote does not simply randomly select itself again.
