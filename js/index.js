@@ -59,7 +59,19 @@ var quotes = [{
     "author": "Edwin H. Friedman",
     "source": "A Failure of Nerve: Leadership in the Age of the Quick Fix",
     "URL": "http://amzn.to/29ouuHs",
-              }
+  },
+  // {
+  //   "quote": "Friendship is born at that moment when one person says to another: What, you too? I thought I was the only one.",
+  //   "author": "C.S.Lewis",
+  //   "source": "The Four Loves",
+  //   "URL": "http://amzn.to/29ouuHs",
+  // },
+  {
+    "quote": "Management is doing things right; Leadership is doing the right things",
+    "author": "Peter Drucker",
+    "source": "",
+    "URL": "http://amzn.to/29ouuHs",
+  }
 ];
 
 var quoteNumber = 0;
