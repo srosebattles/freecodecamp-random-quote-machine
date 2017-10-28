@@ -64,7 +64,7 @@ var quotes = [{
   //   "quote": "Friendship is born at that moment when one person says to another: What, you too? I thought I was the only one.",
   //   "author": "C.S.Lewis",
   //   "source": "The Four Loves",
-  //   "URL": "http://amzn.to/29ouuHs",
+  //   "URL": "https://www.amazon.com/Four-Loves-C-S-Lewis-ebook/dp/B01EFM8NI4/ref=sr_1_1?ie=UTF8&qid=1509218180&sr=8-1&keywords=the+four+loves+c.s.+lewis",
   // },
   {
     "quote": "Management is doing things right; Leadership is doing the right things",
